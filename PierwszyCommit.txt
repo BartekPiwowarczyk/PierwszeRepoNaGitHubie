@@ -1,1 +1,2 @@
 To są pierwsze zmiany commita
+Kolejne zmiany do revert.
