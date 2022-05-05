@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 To jest znowu test nr 1. Tu nie ma zmain z branch conflict2. Wprowadzam w branch confilct3. Pisze sobie cos w main
+=======
+To jest znowu test nr 1. Tu nie ma zmain z branch conflict2. Wprowadzam w branch confilct3
+Teraz wprowadzam cs w branch 75
+>>>>>>> de3fb0e (commit przy branch75)
